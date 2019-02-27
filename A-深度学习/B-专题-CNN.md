@@ -176,6 +176,8 @@ Index
   </tr>
 </table>
 
+### [变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作](https://blog.csdn.net/stdcoutzyx/article/details/55004458) - CSDN博客
+
 ### 空洞卷积
 - 空洞卷积（Atrous Convolutions）也称扩张卷积（Dilated Convolutions）、膨胀卷积。
   <div align="center"><img src="../_assets/conv_dilation.gif" height="200" /><br/>No padding, no strides.</div>
@@ -186,6 +188,7 @@ Index
   <div align="center"><img src="../_assets/普通卷积与膨胀卷积.png" height="200" /></div>
 
   <!-- - 普通卷积在第三层时，每个节点只能捕捉到前后3个输入 -->
+
 
 ### 可分离卷积
 - 可分离卷积（separable convolution）
